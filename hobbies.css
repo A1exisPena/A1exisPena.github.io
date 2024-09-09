@@ -1,0 +1,33 @@
+html{
+    font-size: 50px;
+}
+.a{ 
+font-size: 30px;
+}
+table{
+font-size: 30px;
+}
+.Some{
+    font-size: 40px;
+    font-weight: bold;
+}
+.jrotc{
+    font-size: 50%;
+    text-decoration: underline;
+}
+div{
+    font-size: 40%;
+    margin-left: 5%;
+    margin-right:5%;
+    margin-top: 0%;
+}
+.vol{
+    font-size: 50%;
+    text-decoration: underline;
+}
+.why{
+    font-size: 40%;
+    margin-left: 5%;
+    margin-right:5%;
+    margin-top: 0%;
+}
